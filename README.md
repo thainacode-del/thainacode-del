@@ -33,7 +33,7 @@
 
  <div style="display: inline_block">
 <div> 
-  <a href="https://www.linkedin.com/in/thain%C3%A1-lawrency-b61a62225//" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/thain%C3%A1-lawrency-b61a62225///" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=5537984129079">
 <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-4FCE5D?style=for-the-badge&logo=WhatsApp&logoColor=white" />
 </a>
